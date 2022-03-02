@@ -1,2 +1,2 @@
-Please raed en_us.md or ja_jp.md.</br>
-en_us.mdまたはja_jp.mdをお読みください。</br>
+#Japanese 日本語</br>
+#English 英語</br>
