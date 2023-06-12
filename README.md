@@ -5,4 +5,7 @@ Minecraft 1.7.10のmodであるGregTech 5 Unofficialと, 1.12.2のmodであるGr
 ==English 英語==</br>
 Someone who created the Japanese files for Greg Tech 5 Unofficial, which is a mod of Minecraft 1.7.10, and Greg Tech Community Edition (GTCE) , GTCE Unofficial and their add-ons, which are mods of 1.12.2.</br> 
 <br>
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=MrKono&show_icons=true)
+<p align="left">
+<img align="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=MrKono&show_icons=true" />
+<img align="Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrKono&layout=compact&show_icons=true" />
+</p>
